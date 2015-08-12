@@ -28,7 +28,7 @@ This is expected behaviour. It's bit of a dirty script that runs numerous steamc
 
 > How can I tell once it's finished?
 
-Unless your servers are from ~2007 and have received 0 updates, once theoutput comes to a complete standstill, you should find all the servers for that user have been updated.
+Unless your servers are from ~2007 and have received 0 updates, once the output comes to a complete standstill, you should find all the servers for that user have been updated. If you hit enter and you get the typical cmd prompt, that pretty much guarantees it. 
 
 > Is there any way to automate it across all users?
 
