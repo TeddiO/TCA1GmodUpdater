@@ -22,6 +22,10 @@ You can reliably use it for a user that has more than one game server (eg a GMod
 
 ### A few inevitable questions that you'll probably end up asking -
 
+>Does this work for TCAdmin 2?
+
+No idea, I don't use it. In theory if the file structures are 1:1 from TCA1, then yep!
+
 > When updating a mass amount of servers under a user, it appears the entire thing spits out garbage or 'slurred' text!
 
 This is expected behaviour. It's bit of a dirty script that runs numerous steamcmd windows in a single window. They won't interact with each other, but it seemed better than making a unique window pop up each time.
