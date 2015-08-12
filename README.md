@@ -20,7 +20,7 @@ python massgmodupdater.py C:/steamcmd/steamcmd.exe C:/UserFiles/USER/GameServers
 
 You can reliable use it for a user that has more than one game server (eg a GMod and CSS server) as it attempts to specifically check for GMod. It will attempt to count the total amount of GMod servers and will request input from yourself before you continue.
 
-### A few in-evitable questions that you'll probably end up asking -
+### A few inevitable questions that you'll probably end up asking -
 
 > When updating a mass amount of servers under a user, it appears the entire thing spits out garbage or 'slurred' text!
 
