@@ -33,3 +33,7 @@ Unless your servers are from ~2007 and have received 0 updates, once the output 
 > Is there any way to automate it across all users?
 
 Within the confines of this script explicitly - no. You can however create another script, import this one and this will foot most of the legwork for you (albeit you may want to comment out the input check). 
+
+##And lastly...
+
+This script comes with no warantees / guarantees. Use at your own risk essentially. 
