@@ -23,10 +23,13 @@ You can reliable use it for a user that has more than one game server (eg a GMod
 ### A few in-evitable questions that you'll probably end up asking -
 
 > When updating a mass amount of servers under a user, it appears the entire thing spits out garbage or 'slurred' text!
+
 This is expected behaviour. It's bit of a dirty script that runs numerous steamcmd windows in a single window. They won't interact with each other, but it seemed better than making a unique window pop up each time.
 
 > How can I tell once it's finished?
+
 Unless your servers are from ~2007 and have received 0 updates, once theoutput comes to a complete standstill, you should find all the servers for that user have been updated.
 
 > Is there any way to automate it across all users?
+
 Within the confines of this script explicitly - no. You can however create another script, import this one and this will foot most of the legwork for you (albeit you may want to comment out the input check). 
