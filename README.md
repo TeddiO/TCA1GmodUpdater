@@ -17,7 +17,7 @@ Example:
 
 python massgmodupdater.py C:/steamcmd/steamcmd.exe C:/UserFiles/USER*/GameServers
 
-*Where username of the user. 
+*Where USER is yknow, the username of the person.
 ```
 
 You can reliably use it for a user that has more than one game server (eg a GMod and CSS server) as it attempts to specifically check for GMod. It will attempt to count the total amount of GMod servers and will request input from yourself before you continue. Please however make sure that **the servers you want to update are turned off first, or you may have unexpected behaviour**.
